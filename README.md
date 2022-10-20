@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there! I'm André Tozzi :octocat:</h1>
+<h1 align="center">Hi there! I'm André Tozzi</h1>
 
 <!--  ## About me: -->
 
